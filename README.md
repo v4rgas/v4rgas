@@ -1,5 +1,5 @@
 ```
-greetings to all the people of the cybersphere,
+greetings to all the entities of the cybersphere,
 
 im a human making cool stuff and cool stuff do cooler stuff
 
