@@ -5,6 +5,6 @@ im a human making cool stuff and cool stuff do cooler stuff
 best regards,
 juan
 
-## About Me
+## about me
 
 <img src="https://raw.githubusercontent.com/v4rgas/v4rgas/main/me.gif"/>
