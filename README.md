@@ -11,18 +11,18 @@ best regards,<br/>
   <table>
     <tr>
       <td valign="top">
-        <strong>Techs I Like</strong>
+        <strong>techs i like</strong>
         <ul>
-          <li>⚒️ C, C#, Python, JavaScript</li>
-          <li>🐧 Linux, Neovim, BSPWM</li>
+          <li>⚒️ c, c#, python, javascript</li>
+          <li>🐧 linux, neovim, bspwm</li>
         </ul>
-        <strong>Things I Like</strong>
+        <strong>things i like</strong>
         <ul>
-          <li>🤖 AI</li>
-          <li>♟️ Chess</li>
-          <li>🎶 Brazilian Music</li>
-          <li>🎮 Gaming</li>
-          <li>💪 Strength Training</li>
+          <li>🤖 ai</li>
+          <li>♟️ chess</li>
+          <li>🎶 brazilian music</li>
+          <li>🎮 gaming</li>
+          <li>💪 strength training</li>
         </ul>
       </td>
       <td valign="top">
