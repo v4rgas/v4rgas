@@ -5,15 +5,25 @@ im a human making cool stuff and cool stuff do cooler stuff
 best regards,<br/>
 juan
 
-### about me
-techs i like
-- ⚒️ C, C#, python, javascript
-- 🐧 linux, neovim, bspwm
-
-things i like
-- ♟️ chess
-- 🎶 brazilian music
-- 🎮 games
-- 💪 strength training
-
-<img src="https://raw.githubusercontent.com/v4rgas/v4rgas/main/me.gif"/>
+<table>
+  <tr>
+    <td valign="top">
+      techs i like
+      <ul>
+        <li>⚒️ C, C#, python, javascript</li>
+        <li>🐧 linux, neovim, bspwm</li>
+      </ul>
+      things i like
+      <ul>
+        <li>🤖 ai</li>
+        <li>♟️ chess</li>
+        <li>🎶 brazilian music</li>
+        <li>🎮 gaming</li>
+        <li>💪 strength training</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <img align="top" src="https://raw.githubusercontent.com/v4rgas/v4rgas/main/me.gif"/>
+    </td>
+  </tr>
+</table>
