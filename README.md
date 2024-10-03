@@ -7,25 +7,27 @@ juan
 
 ## 
 
-<table>
-  <tr>
-    <td valign="top">
-      techs i like
-      <ul>
-        <li>⚒️ C, C#, python, javascript</li>
-        <li>🐧 linux, neovim, bspwm</li>
-      </ul>
-      things i like
-      <ul>
-        <li>🤖 ai</li>
-        <li>♟️ chess</li>
-        <li>🎶 brazilian music</li>
-        <li>🎮 gaming</li>
-        <li>💪 strength training</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <img align="top" src="https://raw.githubusercontent.com/v4rgas/v4rgas/main/me.gif"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top">
+        <strong>Techs I Like</strong>
+        <ul>
+          <li>⚒️ C, C#, Python, JavaScript</li>
+          <li>🐧 Linux, Neovim, BSPWM</li>
+        </ul>
+        <strong>Things I Like</strong>
+        <ul>
+          <li>🤖 AI</li>
+          <li>♟️ Chess</li>
+          <li>🎶 Brazilian Music</li>
+          <li>🎮 Gaming</li>
+          <li>💪 Strength Training</li>
+        </ul>
+      </td>
+      <td valign="top">
+        <img align="top" src="https://raw.githubusercontent.com/v4rgas/v4rgas/main/me.gif"/>
+      </td>
+    </tr>
+  </table>
+</div>
