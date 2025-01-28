@@ -11,7 +11,7 @@ best regards,<br/>
   <p align= "left">
     <strong>techs i like</strong> <br/>
     ⚒️ c, c#, python, javascript<br/>
-    🐧 linux, neovim, bspwm <br/><br/>
+    🐧 linux, neovim, i3 <br/><br/>
     <strong>things i like</strong> <br/>
     🤖 ai<br/>
     ♟️ chess<br/>
