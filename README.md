@@ -3,4 +3,6 @@ hello internet
 best regards,<br/>
 **juan**
 
-<img  src="https://raw.githubusercontent.com/v4rgas/v4rgas/main/me.gif"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/v4rgas/v4rgas/main/me.gif"/>
+</p>
